@@ -18,5 +18,7 @@
 
 * Task 9: Feature Importance and Evaluation Metrics
 
-**Optional:** Comparison with Logistic Regression Classifier
+**Optional:** 
+
+Comparison with Logistic Regression Classifier
 
